@@ -25,7 +25,6 @@ Insert a new API Call (![](images/readme3.JPG "Insert API Call")) to your scenar
 In our case, we perform a GET request to MS Band's API endpoint to retrieve's the user's daily activity summary:
 ![](images/readme4.JPG "API Call configuration")
 
-
-
+That's it! Following their consent, your users can now enjoy a more personalized experience by using their information from various API providers.
 
 For more information feel free to [contact us](mailto:HealthBotDRI@microsoft.com).
