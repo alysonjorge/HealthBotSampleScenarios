@@ -1,4 +1,5 @@
-# Get Location - getting user's geo location during conversation
+# Get Location
+  getting user's geo location during conversation
 
 This scenario sends a "shareLocation" event from the bot to the user, with the user's consent, the bot will get back the user's location
 
