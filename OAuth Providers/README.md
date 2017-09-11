@@ -14,5 +14,5 @@ Using the OAuth parameters provided by the data provider, we create a new entry 
 ![](images/readme2.JPG "Data Provider configuration")
 
 #### 3. Use the configured Data Provider in the Scenario Composer
-Insert a new API Call (![](images/readme3.JPG "Insert API Call")) to your scenario and choose the data provider defined on the previous step from the dropdown menu, and define the API call just like any other API call (authenticated or not). Our backend will take care of token aqcuisition and refresh for each user that will use this scenario.
+Insert a new API Call (![](images/readme3.JPG "Insert API Call")) to your scenario, choose the data provider defined on the previous step from the dropdown menu, and define the API call just like any other API call (authenticated or not). Our service will take care of token acquisition and refresh for each user using this scenario.
 ![](images/readme4.JPG "Data Provider configuration")
