@@ -1,7 +1,7 @@
-# Get Location
-  getting user's geo location during conversation
+# Getting user's geo location during conversation
 
-This scenario sends a "shareLocation" event from the bot to the user, with the user's consent, the bot will get back the user's location
+This scenario sends a "shareLocation" event from the bot to the user's client.
+Once the client gets the user's consent, it will send the user's geo location back to the bot.
 
 ## Limitations 
  1. Works only with webchat channel
