@@ -7,7 +7,7 @@ In order to retreive data from an authenticated data provider and consume it in 
 
 #### 1. Configure your application on the data provider's side
 In this example,  consume data from Microsoft Band Cloud API. On [Microsoft's application management page](https://account.live.com/developers/applications) we configure our application as follows:
-[](images/readme1.JPG?raw=true "Application configuration")
+[](https://raw.github.com/Microsoft/HealthBotSampleScenarios/blob/master/OAuth%20Providers/images/readme1.JPG?raw=true "Application configuration")
 
 
 #### 2. Add your application configuartion to the Data Providers tab on Health Bot dashboard
